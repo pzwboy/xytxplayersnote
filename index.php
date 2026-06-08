@@ -64,7 +64,7 @@ $max_length = intval($_GET['max_length'] ?? 30);
 
 // 远程配置
 
-$remote_base = '/notes/';
+$remote_base = 'https://github.com/pzwboy/xytxplayersnote/raw/refs/heads/main/notes/';
 
 $available_types = ['a'];
 
